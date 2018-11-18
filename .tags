@@ -1,0 +1,42 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+NanoTimer	.\node_app\index.js	/^var NanoTimer = require('nanotimer');$/;"	v
+NanoTimer	.\node_app\node_modules\nanotimer\lib\nanotimer.js	/^function NanoTimer(log){$/;"	c
+NanoTimer	.\node_app\node_modules\nanotimer\test\test-nanotimer.js	/^var NanoTimer = require('..\/lib\/nanotimer.js');$/;"	v
+NanoTimer.clearInterval	.\node_app\node_modules\nanotimer\lib\nanotimer.js	/^NanoTimer.prototype.clearInterval = function(){$/;"	m
+NanoTimer.clearTimeout	.\node_app\node_modules\nanotimer\lib\nanotimer.js	/^NanoTimer.prototype.clearTimeout = function(){$/;"	m
+NanoTimer.hasTimeout	.\node_app\node_modules\nanotimer\lib\nanotimer.js	/^NanoTimer.prototype.hasTimeout = function(){$/;"	m
+NanoTimer.setInterval	.\node_app\node_modules\nanotimer\lib\nanotimer.js	/^NanoTimer.prototype.setInterval = function(task, args, interval, callback){$/;"	m
+NanoTimer.setTimeout	.\node_app\node_modules\nanotimer\lib\nanotimer.js	/^NanoTimer.prototype.setTimeout = function(task, args, delay, callback){$/;"	m
+NanoTimer.time	.\node_app\node_modules\nanotimer\lib\nanotimer.js	/^NanoTimer.prototype.time = function(task, args, format, callback){$/;"	m
+author	.\node_app\package.json	/^  "author": "John Tomko <john.tomko1@gmail.com>",$/;"	f
+authors	.\node_app\node_modules\nanotimer\package.json	/^  "authors": [$/;"	f
+dependencies	.\node_app\package.json	/^  "dependencies": {$/;"	f
+dependencies	.\package.json	/^  "dependencies": {}$/;"	f
+description	.\node_app\node_modules\nanotimer\package.json	/^  "description": "A much higher accuracy timer object that makes use of the node.js hrtime function call.",$/;"	f
+description	.\node_app\package.json	/^  "description": "workout manager app for controlling timing",$/;"	f
+devDependencies	.\node_app\node_modules\nanotimer\package.json	/^  "devDependencies": {$/;"	f
+keywords	.\node_app\node_modules\nanotimer\package.json	/^  "keywords": [$/;"	f
+license	.\node_app\node_modules\nanotimer\package.json	/^  "license": "ISC"$/;"	f
+license	.\node_app\package.json	/^  "license": "MIT",$/;"	f
+main	.\node_app\node_modules\nanotimer\package.json	/^  "main": ".\/lib\/nanotimer.js",$/;"	f
+main	.\node_app\package.json	/^  "main": "index.js",$/;"	f
+mocha	.\node_app\node_modules\nanotimer\package.json	/^    "mocha": "^2.3.4",$/;"	f
+name	.\node_app\node_modules\nanotimer\package.json	/^  "name": "nanotimer",$/;"	f
+name	.\node_app\package.json	/^  "name": "workout_manager",$/;"	f
+nanotimer	.\node_app\package.json	/^    "nanotimer": "^0.3.15"$/;"	f
+repository	.\node_app\node_modules\nanotimer\package.json	/^  "repository": {$/;"	f
+repository	.\node_app\package.json	/^  "repository": "https:\/\/github.com\/johntomko\/workout_manager.git",$/;"	f
+scripts	.\node_app\node_modules\nanotimer\package.json	/^  "scripts": {$/;"	f
+should	.\node_app\node_modules\nanotimer\package.json	/^    "should": "^7.1.1"$/;"	f
+should	.\node_app\node_modules\nanotimer\test\test-nanotimer.js	/^var should = require('should');$/;"	v
+test	.\node_app\node_modules\nanotimer\package.json	/^    "test": "mocha"$/;"	f
+type	.\node_app\node_modules\nanotimer\package.json	/^    "type": "git",$/;"	f
+url	.\node_app\node_modules\nanotimer\package.json	/^    "url": "https:\/\/github.com\/Krb686\/nanotimer.git"$/;"	f
+var.data.waitTime	.\node_app\node_modules\nanotimer\lib\nanotimer.js	/^			var data = {'waitTime':difTime};$/;"	p
+version	.\node_app\node_modules\nanotimer\package.json	/^  "version": "0.3.15",$/;"	f
+version	.\node_app\package.json	/^  "version": "1.0.0",$/;"	f
