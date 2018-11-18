@@ -1,0 +1,12 @@
+{
+  "name": "workout_manager",
+  "version": "1.0.0",
+  "description": "workout manager app for controlling timing",
+  "main": "index.js",
+  "repository": "https://github.com/johntomko/workout_manager.git",
+  "author": "John Tomko <john.tomko1@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "nanotimer": "^0.3.15"
+  }
+}
